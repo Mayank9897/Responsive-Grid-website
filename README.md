@@ -1,4 +1,4 @@
-# Mynks Restaurant 🍽️
+# Mynks Restaurant 🍽️ View Live → https://mynksrestaurant.netlify.app/
 
 A modern, responsive restaurant website built using **HTML** and **CSS** with media queries for mobile-friendly design.
 
